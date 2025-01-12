@@ -19,7 +19,7 @@ Ouvrez le fichier index.html dans un navigateur web.
 2. Utilisez le champ de texte pour ajouter une tâche.
 3. Cochez une tâche pour la marquer comme terminée.
 1. Supprimez une tâche à l'aide du bouton "Supprimer".
-2. 
+
 ---
 
 ### Prérequis
