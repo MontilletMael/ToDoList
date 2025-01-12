@@ -1,4 +1,4 @@
-# <span style="color: red;">README - To-Do List</span>
+# README - To-Do List
 
 ### Description
 Une application simple de gestion de tâches permettant d'ajouter, afficher, marquer comme terminées, et supprimer des tâches.
