@@ -1,4 +1,4 @@
-README - To-Do List
+#README - To-Do List
 
 Description
 
@@ -7,9 +7,9 @@ Une application simple de gestion de tâches permettant d'ajouter, afficher, mar
 Instructions d'installation
 
 Téléchargez ou clonez ce projet via GitHub :
-
+```bash
 git clone <URL_DU_DEPOT>
-
+```
 Ouvrez le fichier index.html dans un navigateur web.
 
 Instructions d'utilisation
