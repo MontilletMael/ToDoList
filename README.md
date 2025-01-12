@@ -8,7 +8,7 @@ Une application simple de gestion de tâches permettant d'ajouter, afficher, mar
 ### Instructions d'installation
 Téléchargez ou clonez ce projet via GitHub :
 ```bash
-git clone <URL_DU_DEPOT>
+git clone https://github.com/MontilletMael/ToDoList.git
 ```
 Ouvrez le fichier index.html dans un navigateur web.
 
